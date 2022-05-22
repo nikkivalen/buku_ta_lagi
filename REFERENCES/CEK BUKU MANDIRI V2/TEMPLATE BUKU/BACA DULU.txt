@@ -1,0 +1,8 @@
+01. Yang harus diperhatikan baik-baik untuk template tersebut hanya formating bukan isinya.
+	Isi dari template tersebut hanya sebagai contoh dan bukan sebagai acuan.
+	Perhatikan blok warna abu-abu, bagian tersebut adalah bagian paling rawan. Cek lagi
+	sebelum submit
+02. Disarankan untuk membuat buku dengan file per bab (terpisah). Hal ini untuk memudahkan
+	pemeriksaan buku dan perbaikan buku, agar tidak mempengaruhi bab lainnya.
+03. Template ini dibuat mengacu pada buku panduan dan kriteria cek buku mandiri.
+	Jadi, tetap perhatikan buku pedoman	pembuatan buku TA/Tesis untuk lebih jelasnya.

@@ -1,0 +1,18 @@
+PERATURAN PENGGUNAAN FORMAT PEMBATAS BUKU TUGAS AKHIR DAN TESIS
+
+1. TIDAK melakukan perubahan APAPUN, baik dalam format, ukuran font, ataupun jenis font.
+
+2. BOLEH melakukan perubahan TEKS HANYA PADA JUDUL PER BAB. Tidak mengganti/merubah/menghapus posisi yang sudah ditetapkan.
+
+3. Penulisan BAB, menggunakan angka ROMAWI. Cth : BAB I, BAB II, BAB III, dst.
+
+4. Jika judul per bab hanya ada 1 BARIS, gunakan format "pembatas PER BAB-1 BARIS JUDUL".
+
+5. Jika judul per bab 2 BARIS, gunakan format "pembatas PER BAB-2 BARIS JUDUL".
+
+6. CETAK PADA KERTAS A4 1x saja.
+
+7. Pembatas hanya untuk Daftar Isi, pembatas lainnya (seperti Daftar Gambar, Tabel, dll) TIDAK DIPERLUKAN.
+
+
+NB: Jika ada komponen format yang terganti, akan mengubah keseluruhan format.  

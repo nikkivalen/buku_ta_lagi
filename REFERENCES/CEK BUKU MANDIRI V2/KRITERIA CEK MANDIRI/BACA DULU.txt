@@ -1,0 +1,6 @@
+01. Kriteria cek buku mandiri disediakan untuk membantu pemeriksaan formatting buku
+02. Disediakan lampiran untuk pendukung kriteria
+03. Harap diperhatikan, bahwa terdapat beberapa perubahan peraturan format dalam pembuatan buku.
+	Buku pedoman sedang dalam tahap perbaikan (tetapi tetap beberapa hal masih tetap berpegang pada pedoman saat ini)
+	Oleh karena itu, telah disertakan template terbaru. Ikuti petunjuk dari template dan kriteria
+	cek buku mandiri

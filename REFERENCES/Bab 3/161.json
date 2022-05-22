@@ -1,0 +1,9 @@
+{
+	"tokens": ["Berdasarkan", "pantauan", "CNNIndonesia.com", ",", "suasana", "sekitar", "lahan", "yang", "dijadikan", "sengketa", "itu", "justru", "sepi", "."], 
+	"entities": [{"start":22, "end":38, "type": "ORG"}], 
+	"relations": {}, 
+	"org_id": "20042022", 
+	"pos": [], 
+	"ltokens": ["Eksekusi", "lahan", "sengketa", "yang", "melibatkan", "dua", "taipan", "di", "kawasan", "Kuningan", "Barat", ",", "Jakarta", "Selatan", ",", "yang", "dijadwalkan", "dilakukan", "malam", "ini", "hingga", "jelang", "pukul", "21.00", "WIB", "belum", "juga", "dilaksanakan", "."], 
+	"rtokens": ["Meskipun", ",", "tampak", "beberapa", "aparat", "kepolisian", "masih", "berjaga-jaga", "di", "sekitar", "lokasi", "."]
+}

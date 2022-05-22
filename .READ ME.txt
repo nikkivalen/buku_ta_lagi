@@ -1,0 +1,4 @@
+Kalau mau buat bab baru ambil dari [TEMPLATE], duplicate template terus isinya diganti.
+
+BAB 0 itu gabungan dari semua bab. 
+Caranya Insert > Object > Text from file. 
